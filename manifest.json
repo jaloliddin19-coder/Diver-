@@ -1,12 +1,16 @@
 {
+  "id": "/index.html",
   "name": "Diver Education",
   "short_name": "Diver Education",
   "description": "O'quvchilar baholash tizimi",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0a0a1a",
   "theme_color": "#1E293B",
   "orientation": "portrait",
+  "categories": ["education"],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "assets/icons/icon-512.png",
