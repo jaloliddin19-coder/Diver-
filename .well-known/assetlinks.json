@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.diver_edu_uz.twa",
+    "sha256_cert_fingerprints": ["11:7A:84:43:40:CC:B6:CC:00:A3:4C:E8:64:81:58:77:27:51:AD:CD:58:D8:E0:95:18:26:53:29:38:6A:7B:36"]
+  }
+}]
